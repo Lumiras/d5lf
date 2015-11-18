@@ -52,11 +52,11 @@ hr.star-light:after {
   color: white;
 }
 hr.star-primary {
-  border-color: #0bc6d8;
+  border-color: #d51f15;
 }
 hr.star-primary:after {
   background-color: white;
-  color: #0bc6d8;
+  color: #d51f15;
 }
 .img-centered {
   margin: 0 auto;
@@ -151,7 +151,7 @@ section.success a:hover,
 section.success a:focus,
 section.success a:active,
 section.success a.active {
-  color: #0bc6d8;
+  color: #d51f15;
   outline: none;
 }
 @media (max-width: 767px) {
@@ -283,14 +283,14 @@ footer h3 {
 }
 footer .footer-above {
   padding-top: 50px;
-  background-color: #0bc6d8;
+  background-color: #d51f15;
 }
 footer .footer-col {
   margin-bottom: 50px;
 }
 footer .footer-below {
   padding: 25px 0;
-  background-color: #0ab0c0;
+  background-color: #be1c13;
 }
 .btn-social {
   display: inline-block;
@@ -361,7 +361,7 @@ footer .footer-below {
   height: 75px;
   width: 1px;
   margin-left: 35px;
-  background-color: #0bc6d8;
+  background-color: #d51f15;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -372,7 +372,7 @@ footer .footer-below {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 1px;
-  background-color: #0bc6d8;
+  background-color: #d51f15;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
